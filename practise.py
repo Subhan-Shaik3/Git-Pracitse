@@ -6,4 +6,4 @@ for word in words.split():
         frequency_of_words[word] = 1
     else:
         frequency_of_words[word] += 1
-print(frequency_of_words)
+print("This the word frequency :", frequency_of_words)
