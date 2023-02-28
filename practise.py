@@ -1,6 +1,6 @@
 #This program tells about the word of frequency
 #how are you
-words = "what is this how are you"
+words = "what is this how r you"
 frequency_of_words = {}
 for word in words.split():
     if word not in frequency_of_words:
